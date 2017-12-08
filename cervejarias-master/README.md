@@ -4,7 +4,7 @@ Denver é xxxxx.
 
 A sxxxxxxxxx.
 
-![Gráfico 1](adrianagrafico.png)
+![Gráfico 1](adrianagrafico2.png)
 
 Fonte original
 
